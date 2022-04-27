@@ -1,4 +1,4 @@
-# ReactJS-Morning-B-2022
+# ReactJS
 
 ### 01 lesson
 * introduction
